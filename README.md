@@ -77,7 +77,7 @@ Customer churn is a critical problem in the telecom industry. This project aims 
 
 - Achieved strong performance on classification metrics
 - Identified key factors influencing customer churn
-- acheived f1_score 80%
+- acheived f1_score 89%
 
 ---
 
